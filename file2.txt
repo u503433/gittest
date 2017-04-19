@@ -1,0 +1,2 @@
+i am inside file2.txt
+ 
